@@ -1,6 +1,6 @@
 ### Hello, I am Caio Montilha 👋
 
-- 🔭 I’m currently working on Front-end and Data Science
+- 🔭 
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: caiomontilha.cm@gmail.com
 - 😄 Pronouns: He/Him
