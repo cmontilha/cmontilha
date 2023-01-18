@@ -1,7 +1,6 @@
 ### Hello, I am Caio Montilha 👋
 
-- 🔭 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: caiomontilha.cm@gmail.com
 - 😄 Pronouns: He/Him
 
