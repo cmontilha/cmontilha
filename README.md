@@ -1,8 +1,7 @@
 ### Hello, I am Caio Montilha 👋
 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: caiomontilha.cm@gmail.com
-- 😄 Pronouns: He/Him
 
 </div> 
   <div style="display: inline_block"><br>
