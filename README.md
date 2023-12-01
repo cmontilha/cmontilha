@@ -1,7 +1,22 @@
 ### Hey, I am Caio Montilha 👋
 
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: caiomontilha.cm@gmail.com
+- Experienced coder with proficiency in high-level programming languages and data structures. Skilled problem-solver with a strong creative mindset.
+  
+  📫 How to reach me:
+- caiomontilha.cm@gmail.com
+
+## Skills
+| Languages   | Tools   | Databases |
+|-------------|---------|-----------|
+| Python      | Git     | MySQL     |
+| Java        | VSCode  | SQL       |
+| JavaScript  | R-Studio|           |
+| TypeScript  |         |           |
+| HTML        |         |           |
+| CSS         |         |           |
+| C++         |         |           |
+| Kotlin      |         |           |
+| R           |         |           |
 
 </div> 
   <div style="display: inline_block"><br>
@@ -12,6 +27,8 @@
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Caio-SQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
   <img align="center" alt="Caio-MySQL" height="30" width="35" src="https://cdn.iconscout.com/icon/free/png-256/mysql-6-226028.png">
+  <img align="center" alt="Caio-Kotlin" height="30" width="40" src="https://e7.pngegg.com/pngimages/314/161/png-clipart-kotlin-android-software-development-anonymous-function-programming-language-android-blue-angle-thumbnail.png">
+
 </div>
   
   ##
