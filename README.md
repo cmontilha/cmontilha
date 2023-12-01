@@ -6,7 +6,7 @@
 </div> 
   <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <imgg align="center" alt="Caio-Java" height="30" width="30" src="[https://static.cloud-boxloja.com/lojas/wyfyg/produtos/6ddcc295-ee36-4a7f-be1a-ebeb192bacd5.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fjava-icon&psig=AOvVaw18ju74OsPgNARHgxfJomSn&ust=1701497706659000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCZzIfL7YIDFQAAAAAdAAAAABAE)">
+  <imgg align="center" alt="Caio-Java" height="30" width="30" src="[https://static.cloud-boxloja.com/lojas/wyfyg/produtos/6ddcc295-ee36-4a7f-be1a-ebeb192bacd5.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fjava-icon&psig=AOvVaw18ju74OsPgNARHgxfJomSn&ust=1701497706659000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCZzIfL7YIDFQAAAAAdAAAAABAE)"](https://e7.pngegg.com/pngimages/123/816/png-clipart-computer-icons-java-%E5%92%96%E5%95%A1%E6%B5%B7%E6%8A%A5%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90-miscellaneous-text.png)">
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
