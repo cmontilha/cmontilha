@@ -1,11 +1,11 @@
-## Hey, I am Caio Montilha 👋
+### Hey, I am Caio Montilha 👋
 
 - Experienced coder with proficiency in high-level programming languages and data structures. Skilled problem-solver with a strong creative mindset.
   
   📫 How to reach me:
 - caiomontilha.cm@gmail.com
 
-### Skills
+### Skills:
 |  Languages  |    Tools      | Databases |
 |-------------|---------------|-----------|
 | Python      | Git           | MySQL     |
