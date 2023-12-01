@@ -6,17 +6,17 @@
 - caiomontilha.cm@gmail.com
 
 ## Skills
-| Languages   | Tools   | Databases |
-|-------------|---------|-----------|
-| Python      | Git     | MySQL     |
-| Java        | VSCode  | SQL       |
-| JavaScript  | R-Studio|           |
-| TypeScript  |         |           |
-| HTML        |         |           |
-| CSS         |         |           |
-| C++         |         |           |
-| Kotlin      |         |           |
-| R           |         |           |
+|  Languages  |    Tools      | Databases |
+|-------------|---------------|-----------|
+| Python      | Git           | MySQL     |
+| Java        | VSCode        | SQL       |
+| JavaScript  | R-Studio      |           |
+| TypeScript  | Android Studio|           |
+| HTML        |               |           |
+| CSS         |               |           |
+| C++         |               |           |
+| Kotlin      |               |           |
+| R           |               |           |
 
 </div> 
   <div style="display: inline_block"><br>
