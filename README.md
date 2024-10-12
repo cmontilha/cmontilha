@@ -1,25 +1,32 @@
-### Hey, I am Caio Montilha 👋
+# Hey, I am Caio Montilha 👋
 
-- Experienced coder with proficiency in high-level programming languages and data structures. Skilled problem-solver with a strong creative mindset.
-  
-  📫 How to reach me:
-- caiomontilha.cm@gmail.com
+### 🚀 About Me
+I am an accomplished developer with a strong foundation in high-level programming languages, data structures, and advanced problem-solving. My expertise lies in delivering innovative and efficient technology solutions, from mobile applications to full-stack web development, while continually staying on top of emerging technologies.
 
-### Skills:
-|  Languages  |    Tools      | Databases |
-|-------------|---------------|-----------|
-| Python      | Git           | MySQL     |
-| Java        | VSCode        | SQL       |
-| JavaScript  | R-Studio      |           |
-| TypeScript  | Android Studio|           |
-| HTML        |               |           |
-| CSS         |               |           |
-| C++         |               |           |
-| Kotlin      |               |           |
-| R           |               |           |
+---
 
-</div> 
-  <div style="display: inline_block"><br>
+### 🛠️ Technical Skills
+
+|  **Languages**  |    **Tools**      | **Databases** |
+|-----------------|-------------------|---------------|
+| Python         | Git                | MySQL         |
+| Java           | IntelliJ IDEA      | SQL           |
+| JavaScript     | Docker             | MongoDB       |
+| TypeScript     | Android Studio     | Firebase      |
+| Kotlin         | R-Studio           |               |
+| CSS            | Visual Studio Code |               |
+| HTML           | VirtualBox         |               |
+| C++            | AWS                |               |
+| R              | Kubernetes         |               |
+
+---
+
+### 📫 How to reach me:
+- Email: montilhac25@hanover.edu
+
+---
+
+<div>
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Caio-Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,7 +35,6 @@
   <img align="center" alt="Caio-SQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
   <img align="center" alt="Caio-MySQL" height="30" width="35" src="https://cdn.iconscout.com/icon/free/png-256/mysql-6-226028.png">
   <img align="center" alt="Caio-Kotlin" height="30" width="40" src="https://e7.pngegg.com/pngimages/314/161/png-clipart-kotlin-android-software-development-anonymous-function-programming-language-android-blue-angle-thumbnail.png">
-
 </div>
   
   ##
