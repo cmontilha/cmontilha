@@ -1,4 +1,4 @@
-# Hey, I am Caio Montilha 👋
+# Hey, I am Caio Montilha
 
 ### 🚀 About Me
 I am an accomplished developer with a strong foundation in high-level programming languages, data structures, and advanced problem-solving. My expertise lies in delivering innovative and efficient technology solutions, from mobile applications to full-stack web development, while continually staying on top of emerging technologies.
