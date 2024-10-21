@@ -1,7 +1,7 @@
-# Hey, I am Caio Montilha
+# Hey, I am Caio Montilha 🧑‍💻
 
 ### 🚀 About Me
-I am an accomplished developer with a strong foundation in high-level programming languages, data structures, and advanced problem-solving. My expertise lies in delivering innovative and efficient technology solutions, from mobile applications to full-stack web development, while continually staying on top of emerging technologies.
+I’m a Computer Science & Business student with strong skills in programming languages, data structures, and algorithms. My expertise lies in delivering innovative and efficient technology solutions, ranging from mobile applications to full-stack development, while staying up-to-date with emerging technologies.
 
 ---
 
@@ -10,23 +10,21 @@ I am an accomplished developer with a strong foundation in high-level programmin
 |  **Languages**  |    **Tools**      | **Databases** |
 |-----------------|-------------------|---------------|
 | Python         | Git                | MySQL         |
-| Java           | IntelliJ IDEA      | SQL           |
+| Java           | AWS                | SQL           |
 | JavaScript     | Docker             | MongoDB       |
 | TypeScript     | Android Studio     | Firebase      |
 | Kotlin         | R-Studio           |               |
 | CSS            | Visual Studio Code |               |
 | HTML           | VirtualBox         |               |
-| C++            | AWS                |               |
+| C++            | IntelliJ IDEA      |               |
 | R              | Kubernetes         |               |
+| C              | FLTK               |               |
+| C#             | Unity              |               |
+| Swift          | Postman            |               |
+| Ruby           |                    |               |
+| Markdown       |                    |               |
 
 ---
-
-### 📫 How to reach me:
-- Email: montilhac25@hanover.edu
-
----
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -73,12 +71,31 @@ I am an accomplished developer with a strong foundation in high-level programmin
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
+  <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
+  </a>
+  <a href="https://swift.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+  </a>
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
 </p>
-  
-  ##
-  
-  <div> 
-   <a href="https://www.instagram.com/cyber_tracker365" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/5ePcuCrk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-   <a href="https://www.linkedin.com/in/caio-montilha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+
+---
+### 🔗 **Let's Connect:**
+
+<div> 
+  <a href="https://www.instagram.com/cyber_tracker365" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/5ePcuCrk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/caio-montilha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
