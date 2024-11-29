@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I’m a Computer Science & Business student with strong skills in programming languages, data structures, and algorithms. My expertise lies in delivering innovative and efficient technology solutions, ranging from mobile applications to full-stack development, while staying up-to-date with emerging technologies.
 
-[Visit my full portfolio here](https://cmontilha.github.io/Portfolio/)
+[![Visit my Portfolio!](https://img.shields.io/badge/Visit%20my%20Portfolio%20Here-%2300BFFF?style=for-the-badge&logo=github&logoColor=white)](https://cmontilha.github.io/Portfolio/)
 
 ---
 
