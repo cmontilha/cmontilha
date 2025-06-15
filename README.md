@@ -1,7 +1,7 @@
 # Hey, I am Caio Montilha 🧑‍💻
 
 ### 🚀 About Me
-I’m a Computer Science & Business student with strong skills in programming languages, data structures, and algorithms. My expertise lies in delivering innovative and efficient technology solutions, ranging from mobile applications to full-stack development, while staying up-to-date with emerging technologies.
+I’m a Computer Science & Business student with strong skills in programming languages, data structures, and algorithms. My expertise lies in delivering innovative and efficient technology solutions, ranging from web and mobile applications to full-stack development, while staying up-to-date with emerging technologies.
 
 [![Visit my Portfolio!](https://img.shields.io/badge/Visit%20my%20Portfolio%20Here-%2300BFFF?style=for-the-badge&logo=github&logoColor=white)](https://cmontilha.github.io/Portfolio/)
 
@@ -12,19 +12,15 @@ I’m a Computer Science & Business student with strong skills in programming la
 |  **Languages**  |    **Tools**      | **Databases** |
 |-----------------|-------------------|---------------|
 | Python         | Git                | MySQL         |
-| Java           | AWS                | SQL           |
+| Java (Learning)| Postman            | SQL           |
 | JavaScript     | Docker             | MongoDB       |
-| TypeScript     | Android Studio     | Firebase      |
-| Kotlin         | R-Studio           |               |
+| Kotlin         | Android Studio     | Firebase      |
 | CSS            | Visual Studio Code |               |
 | HTML           | VirtualBox         |               |
-| C++            | IntelliJ IDEA      |               |
+| C++ (Learning) | IntelliJ IDEA      |               |
 | R              | Kubernetes         |               |
-| C              | FLTK               |               |
-| C#             | Unity              |               |
-| Swift          | Postman            |               |
-| Ruby           |                    |               |
-| Markdown       |                    |               |
+| Swift(Learning)| Unity (Learning)   |               |
+| Markdown       | R-Studio           |               |
 
 ---
 <p align="left"> 
@@ -76,20 +72,11 @@ I’m a Computer Science & Business student with strong skills in programming la
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
-  </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
   </a>
   <a href="https://swift.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
 </p>
 
