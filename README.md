@@ -1,7 +1,7 @@
 # Hey, I am Caio Montilha 🧑‍💻
 
 ### 🚀 About Me
-I’m a Computer Science & Business graduate with strong skills in programming languages, data structures, and algorithms. I specialize in delivering innovative and efficient technology solutions—from web and mobile applications to full-stack systems, while continuously staying current with emerging technologies and industry trends.
+I’m a Computer Science & Business graduate with strong skills in programming languages, data structures, and algorithms. I specialize in delivering innovative and efficient technology solutions, from web and mobile applications to full-stack systems, while continuously staying current with emerging technologies and industry trends.
 
 [![Visit my Portfolio!](https://img.shields.io/badge/Visit%20my%20Portfolio%20Here-%2300BFFF?style=for-the-badge&logo=github&logoColor=white)](https://cmontilha.github.io/Portfolio/)
 
