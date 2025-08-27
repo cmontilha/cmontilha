@@ -16,7 +16,7 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
     </td>
     <td valign="middle">
       <a href="https://cmontilha.github.io/CaioPortfolio/">
-        <img src="https://img.shields.io/badge/Click%20Here%20to%20Visit%20My%20Portfolio-%2300BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Click Here to Visit My Portfolio"/>
+        <img src="https://img.shields.io/badge/💻%20CLICK%20HERE%20TO%20VISIT%20MY%20PORTFOLIO%20💻-00BFFF?style=for-the-badge&labelColor=000000&color=00BFFF&logoColor=white" alt="Click Here to Visit My Portfolio"/>
       </a>
     </td>
   </tr>
