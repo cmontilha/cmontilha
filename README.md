@@ -28,7 +28,7 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
 
 <table>
   <tr>
-    <th>Programming</th>
+    <th>Programming Languages</th>
     <th>Web Development</th>
     <th>Database Management</th>
     <th>Cloud & DevOps</th>
