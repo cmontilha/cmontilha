@@ -1,26 +1,100 @@
 # Hey, I am Caio Montilha 🧑‍💻
 
 ### 🚀 About Me
-I’m a Computer Science & Business graduate with strong skills in programming languages, data structures, and algorithms. I specialize in delivering innovative and efficient technology solutions, from web and mobile applications to full-stack systems, while continuously staying current with emerging technologies and industry trends.
+I’m a Computer Science & Business graduate with strong skills in programming languages, data structures, and algorithms. I specialize in delivering innovative and efficient technology solutions, from web and mobile applications to full-stack systems, while continuously staying current with emerging technologies.
 
-[![Visit my Portfolio!](https://img.shields.io/badge/Visit%20my%20Portfolio%20Here-%2300BFFF?style=for-the-badge&logo=github&logoColor=white)](https://cmontilha.github.io/CaioPortfolio/)
+<!-- Botão do portfólio + Octocat lado a lado (à esquerda) -->
+<table>
+  <tr>
+    <td valign="middle" style="padding-left:14px;">
+      <img src="my_octocat.png" alt="My Octocat" width="140"/>
+    </td>
+    <td valign="middle">
+      <a href="https://cmontilha.github.io/CaioPortfolio/">
+        <img src="https://img.shields.io/badge/Click%20Here%20to%20Visit%20My%20Portfolio-%2300BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Click Here to Visit My Portfolio"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Technical Skills
 
-|  **Languages**  |    **Tools**      | **Databases** |
-|-----------------|-------------------|---------------|
-| Python         | Git                | MySQL         |
-| Java (Learning)| Postman            | SQL           |
-| JavaScript     | Docker             | MongoDB       |
-| Kotlin         | Android Studio     | Firebase      |
-| CSS            | Visual Studio Code |               |
-| HTML           | VirtualBox         |               |
-| C++ (Learning) | IntelliJ IDEA      |               |
-| R              | Kubernetes         |               |
-| Swift(Learning)| Unity (Learning)   |               |
-| Markdown       | R-Studio           |               |
+<table>
+  <tr>
+    <th>Programming</th>
+    <th>Web Development</th>
+    <th>Database Management</th>
+    <th>Cloud & DevOps</th>
+    <th>Version Control</th>
+    <th>Other Tools</th>
+  </tr>
+
+  <tr>
+    <td>Python (Django)</td>
+    <td>HTML</td>
+    <td>SQL</td>
+    <td>Google Cloud (Learning)</td>
+    <td>Git</td>
+    <td>Postman</td>
+  </tr>
+
+  <tr>
+    <td>Java (Spring Boot)</td>
+    <td>CSS</td>
+    <td>MySQL</td>
+    <td>AWS (Learning)</td>
+    <td>GitHub</td>
+    <td>VirtualBox</td>
+  </tr>
+
+  <tr>
+    <td>Kotlin (Ktor)</td>
+    <td>JavaScript (Express)</td>
+    <td>NoSQL</td>
+    <td>Docker</td>
+    <td>&nbsp;</td>
+    <td>Figma</td>
+  </tr>
+
+  <tr>
+    <td>C++</td>
+    <td>TypeScript (Angular)</td>
+    <td>MongoDB</td>
+    <td>Kubernetes</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>R</td>
+    <td>React (Learning)</td>
+    <td>Firebase</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>Swift</td>
+    <td>Node.js (Express)</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>Markdown</td>
+    <td>WordPress</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
 
 ---
 <p align="left"> 
