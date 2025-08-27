@@ -3,11 +3,12 @@
 ### 🚀 About Me
 I’m a Computer Science & Business graduate with strong skills in programming languages, data structures, and algorithms. I specialize in delivering innovative and efficient technology solutions, from web and mobile applications to full-stack systems, while continuously staying current with emerging technologies.
 
-<!-- Botão do portfólio + Octocat lado a lado (à esquerda) -->
 <table>
   <tr>
     <td valign="middle" style="padding-left:14px;">
-      <img src="my_octocat.png" alt="My Octocat" width="140"/>
+      <a href="https://cmontilha.github.io/CaioPortfolio/" title="Open my portfolio">
+        <img src="my_octocat.png" alt="My Octocat" width="140"/>
+      </a>
     </td>
     <td valign="middle">
       <a href="https://cmontilha.github.io/CaioPortfolio/">
