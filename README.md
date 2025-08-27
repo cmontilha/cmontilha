@@ -1,4 +1,6 @@
-# Hey, I am Caio Montilha 🧑‍💻
+<p align="left">
+  <img src="hey_image.png" alt="Hey, I am Caio Montilha" width="600"/>
+</p>
 
 ### 🚀 About Me
 I’m a Computer Science & Business graduate with strong skills in programming languages, data structures, and algorithms. I specialize in delivering innovative and efficient technology solutions, from web and mobile applications to full-stack systems, while continuously staying current with emerging technologies.
@@ -7,7 +9,7 @@ I’m a Computer Science & Business graduate with strong skills in programming l
   <tr>
     <td valign="middle" style="padding-left:14px;">
       <a href="https://cmontilha.github.io/CaioPortfolio/" title="Open my portfolio">
-        <img src="my_octocat.png" alt="My Octocat" width="140"/>
+        <img src="my_octocat.png" alt="My Octocat" width="110"/>
       </a>
     </td>
     <td valign="middle">
