@@ -2,7 +2,7 @@
   <img src="hey_image.png" alt="Hey, I am Caio Montilha" width="480"/>
 </p>
 
-### ━━━━━━━━━ 🚀 About Me ━━━━━━━━━
+### ━━━━━━━━━━ 🚀 About Me ━━━━━━━━━━
 I’m a Computer Science & Business graduate (USA) with strong skills in programming languages, data structures, and algorithms. I specialize in delivering innovative and efficient technology solutions, from web and mobile applications to full-stack systems, while continuously staying current with emerging technologies.
 
 <br>
@@ -24,7 +24,7 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
 
 ---
 
-### ━━━━━━━ 🛠️ Technical Skills ━━━━━━━━
+### ━━━━━━━━ 🛠️ Technical Skills ━━━━━━━━━
 
 <table>
   <tr>
