@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="hey_image.png" alt="Hey, I am Caio Montilha" width="600"/>
+  <img src="hey_image3.png" alt="Hey, I am Caio Montilha" width="600"/>
 </p>
 
 ### 🚀 About Me
