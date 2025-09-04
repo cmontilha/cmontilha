@@ -140,6 +140,7 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
 </p>
 
 ---
+
 ### 🔗 **Let's Connect:**
 
 <div> 
