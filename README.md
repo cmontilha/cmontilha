@@ -66,7 +66,7 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
   <tr>
     <td>C++</td>
     <td>TypeScript (Angular)</td>
-    <td>MongoDB</td>
+    <td>PostgreSQL</td>
     <td>Kubernetes</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -84,7 +84,7 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
   <tr>
     <td>Swift</td>
     <td>Node.js (Express)</td>
-    <td>&nbsp;</td>
+    <td>MongoDB</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
