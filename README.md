@@ -122,7 +122,7 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
       <br><sub><b>AWS Certified Cloud Practitioner</b></sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://www.oracle.com" target="_blank">
+      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=CE7163F286A9EEB5AAE353EDAF31B048638CF88B727A4ECA891FFB53EC54ED16" target="_blank">
         <img src="oracle_certified.png" width="65" alt="Oracle Generative AI Professional"/>
       </a>
       <br><sub><b>Oracle Generative AI Professional</b></sub>
