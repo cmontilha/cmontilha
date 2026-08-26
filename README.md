@@ -122,13 +122,13 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
   <tr>
     <td align="center" width="50%">
       <a href="https://www.credly.com/badges/76f98e22-5271-4d54-8eb7-4e10d2341856/public_url" target="_blank">
-        <img src="https://images.credly.com/size/160x160/images/68498f39-650a-40a2-b9e7-493393ab1646/image.png" width="95" alt="AWS Certified Cloud Practitioner"/>
+        <img src="aws_certified.png" width="130" alt="AWS Certified Cloud Practitioner"/>
       </a>
       <br><b>AWS Certified Cloud Practitioner</b>
     </td>
     <td align="center" width="50%">
       <a href="https://www.oracle.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="80" height="80" alt="Oracle Generative AI Professional"/>
+        <img src="oracle_certified.png" width="125" alt="Oracle Generative AI Professional"/>
       </a>
       <br><b>Oracle Generative AI Professional</b>
     </td>
