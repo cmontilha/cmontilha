@@ -118,19 +118,19 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
 
 ### ━━━━━━━ 📜 Certifications ━━━━━━━
 
-<table>
+<table width="380">
   <tr>
     <td align="center" width="50%">
       <a href="https://www.credly.com/badges/76f98e22-5271-4d54-8eb7-4e10d2341856/public_url" target="_blank">
-        <img src="aws_certified.png" width="130" alt="AWS Certified Cloud Practitioner"/>
+        <img src="aws_certified.png" width="70" alt="AWS Certified Cloud Practitioner"/>
       </a>
-      <br><b>AWS Certified Cloud Practitioner</b>
+      <br><sub><b>AWS Certified Cloud Practitioner</b></sub>
     </td>
     <td align="center" width="50%">
       <a href="https://www.oracle.com" target="_blank">
-        <img src="oracle_certified.png" width="125" alt="Oracle Generative AI Professional"/>
+        <img src="oracle_certified.png" width="65" alt="Oracle Generative AI Professional"/>
       </a>
-      <br><b>Oracle Generative AI Professional</b>
+      <br><sub><b>Oracle Generative AI Professional</b></sub>
     </td>
   </tr>
 </table>
