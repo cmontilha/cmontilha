@@ -29,56 +29,56 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
 <table>
   <tr>
     <th>Programming Languages</th>
-    <th>Web & AI Development</th>
+    <th>Web & Frameworks</th>
+    <th>AI & Data Analytics</th>
     <th>Database Management</th>
     <th>Cloud & DevOps</th>
-    <th>Version Control</th>
-    <th>Tools & Frameworks</th>
+    <th>Tools & Architecture</th>
   </tr>
 
   <tr>
-    <td>Python (AI & Automation)</td>
+    <td>Python (FastAPI/Django)</td>
     <td>React & Next.js</td>
+    <td>LangChain & Hugging Face</td>
     <td>PostgreSQL</td>
-    <td>AWS (Solutions)</td>
-    <td>Git</td>
-    <td>Postman</td>
+    <td>AWS (Certified Practitioner)</td>
+    <td>Clean Architecture & DDD</td>
   </tr>
 
   <tr>
     <td>TypeScript / JavaScript</td>
-    <td>Node.js & Express</td>
+    <td>Node.js & Fastify</td>
+    <td>Power BI & Looker Studio</td>
     <td>MySQL</td>
     <td>Google Cloud (GCP)</td>
-    <td>GitHub</td>
-    <td>Figma</td>
+    <td>Postman & Swagger UI</td>
   </tr>
 
   <tr>
     <td>Java (Spring Boot)</td>
-    <td>HTML5 & CSS3</td>
+    <td>FastAPI & OpenAPI</td>
+    <td>RAG & Vector Search</td>
     <td>MongoDB</td>
-    <td>Docker</td>
-    <td>GitHub Actions</td>
-    <td>Automation Hub</td>
+    <td>Docker & Nginx</td>
+    <td>GitHub Actions / CI/CD</td>
   </tr>
 
   <tr>
-    <td>Kotlin (Android)</td>
-    <td>REST APIs & Services</td>
+    <td>Kotlin (Jetpack Compose)</td>
+    <td>HTML5 & CSS3</td>
+    <td>ETL & Data Pipelines</td>
     <td>Firebase / NoSQL</td>
     <td>Kubernetes</td>
-    <td>&nbsp;</td>
-    <td>VirtualBox</td>
+    <td>Figma & UI/UX</td>
   </tr>
 
   <tr>
-    <td>C++ / R / Swift</td>
+    <td>C# / .NET • C++ • Swift</td>
+    <td>REST APIs & Microservices</td>
     <td>AI Chatbots & Prompt Eng.</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>Microsoft SQL Server</td>
+    <td>Linux (Ubuntu)</td>
+    <td>VirtualBox</td>
   </tr>
 </table>
 
@@ -94,8 +94,8 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
   </tr>
   <tr>
     <td><b>Frontier Models & APIs</b></td>
-    <td>OpenAI API (GPT-4o) • Claude (Sonnet / Claude Code) • Google Gemini</td>
-    <td>RAG Systems, Code Generation, Conversational AI & API Integration</td>
+    <td>OpenAI API (GPT-4o) • Claude (Sonnet / Claude Code) • Google Gemini • Oracle GenAI</td>
+    <td>RAG Systems, Code Generation, Conversational AI & Enterprise Integration</td>
   </tr>
   <tr>
     <td><b>Local & Reasoning AI</b></td>
@@ -103,16 +103,27 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
     <td>Local Model Inference, Complex Reasoning, Code Intelligence & Privacy</td>
   </tr>
   <tr>
-    <td><b>AI Crawling & Data</b></td>
-    <td>Open Crawl • Web Scraping • Data Extraction Pipelines</td>
-    <td>Automated Data Scraping, Knowledge Ingestion & Web Intelligence</td>
+    <td><b>AI Frameworks & Ingestion</b></td>
+    <td>LangChain • Hugging Face • Open Crawl • Web Scraping Pipelines</td>
+    <td>AI Agents, Knowledge Bases, Automated Scraping & Vector Embedding</td>
   </tr>
   <tr>
-    <td><b>AI Agents & Tools</b></td>
-    <td>Claude Code • Prompt Engineering • LLM Workflows • AI Chatbots</td>
-    <td>Automated Workflows, Intelligent Triage & Agentic Development</td>
+    <td><b>AI Agents & Workflow</b></td>
+    <td>Claude Code • Prompt Engineering • RAG Architecture • AI Chatbots</td>
+    <td>Automated Workflows, Intelligent Triage & Agentic Software Engineering</td>
   </tr>
 </table>
+
+<br>
+
+### ━━━━━━━ 📜 Certifications & Education ━━━━━━━
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner Badge"/>
+  <img src="https://img.shields.io/badge/Oracle-Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle GenAI Badge"/>
+  <img src="https://img.shields.io/badge/IBM-Full%20Stack%20Developer-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Full Stack Badge"/>
+  <img src="https://img.shields.io/badge/FIAP-Software%20Architecture%20Postgrad-ED1C24?style=for-the-badge" alt="FIAP Software Architecture"/>
+</p>
 
 <br>
 
