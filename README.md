@@ -29,70 +29,61 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
 <table>
   <tr>
     <th>Programming Languages</th>
-    <th>Web Development</th>
+    <th>Web & AI Development</th>
     <th>Database Management</th>
     <th>Cloud & DevOps</th>
     <th>Version Control</th>
-    <th>Other Tools</th>
+    <th>Tools & Frameworks</th>
   </tr>
 
   <tr>
-    <td>Python (Django)</td>
-    <td>HTML</td>
-    <td>SQL</td>
-    <td>Google Cloud (Learning)</td>
+    <td>Python (AI & Automation)</td>
+    <td>TypeScript & JavaScript</td>
+    <td>PostgreSQL</td>
+    <td>AWS (Solutions)</td>
     <td>Git</td>
     <td>Postman</td>
   </tr>
 
   <tr>
-    <td>Java (Spring Boot)</td>
-    <td>CSS</td>
+    <td>TypeScript / JavaScript</td>
+    <td>React & Next.js</td>
     <td>MySQL</td>
-    <td>AWS (Learning)</td>
+    <td>Google Cloud (GCP)</td>
     <td>GitHub</td>
-    <td>VirtualBox</td>
+    <td>VS Code</td>
   </tr>
 
   <tr>
-    <td>Kotlin (Ktor)</td>
-    <td>JavaScript (Express)</td>
-    <td>NoSQL</td>
+    <td>Java (Spring Boot)</td>
+    <td>Node.js & Express</td>
+    <td>MongoDB</td>
     <td>Docker</td>
     <td>&nbsp;</td>
     <td>Figma</td>
   </tr>
 
   <tr>
-    <td>C++</td>
-    <td>TypeScript (Angular)</td>
-    <td>PostgreSQL</td>
+    <td>Kotlin (Android)</td>
+    <td>HTML5 & CSS3</td>
+    <td>Firebase</td>
     <td>Kubernetes</td>
     <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>VirtualBox</td>
   </tr>
 
   <tr>
-    <td>R</td>
-    <td>React (Learning)</td>
-    <td>Firebase</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-
-  <tr>
-    <td>Swift</td>
-    <td>Node.js (Express)</td>
-    <td>MongoDB</td>
+    <td>C++</td>
+    <td>AI Chatbots & Prompt Eng.</td>
+    <td>SQL / NoSQL</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
   </tr>
 
   <tr>
-    <td>Markdown</td>
-    <td>WordPress</td>
+    <td>R / Swift</td>
+    <td>REST APIs</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -107,6 +98,18 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
@@ -119,21 +122,9 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  </a>
-  <a href="https://swift.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
@@ -145,7 +136,6 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
 
 <div> 
   <a href="https://www.linkedin.com/in/caio-montilha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/techflow.ia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/5ePcuCrk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:caiomontilha.cm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
