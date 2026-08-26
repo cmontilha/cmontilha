@@ -5,8 +5,6 @@
 ### ━━━━━━━━━━ 🚀 About Me ━━━━━━━━━━
 I’m a Computer Science & Business graduate (USA) with strong skills in programming languages, data structures, and algorithms. I specialize in delivering innovative and efficient technology solutions, from web and mobile applications to full-stack systems, while continuously staying current with emerging technologies.
 
-<br>
-
 <table>
   <tr>
     <td valign="middle" style="padding-left:14px;">
@@ -82,7 +80,6 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
   </tr>
 </table>
 
-<br>
 
 ### ━━━━━━━ 🤖 AI Models & Ecosystem ━━━━━━━
 
