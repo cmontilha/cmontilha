@@ -51,7 +51,7 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
     <td>MySQL</td>
     <td>Google Cloud (GCP)</td>
     <td>GitHub</td>
-    <td>VS Code</td>
+    <td>&nbsp;</td>
   </tr>
 
   <tr>
@@ -88,6 +88,33 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
+  </tr>
+</table>
+
+<br>
+
+### ━━━━━━━ 🤖 AI Models & Ecosystem ━━━━━━━
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Models & Technologies</th>
+    <th>Focus & Applications</th>
+  </tr>
+  <tr>
+    <td><b>Frontier Models & APIs</b></td>
+    <td>OpenAI API (GPT-4o) • Claude (Sonnet / Claude Code) • Google Gemini</td>
+    <td>RAG Systems, Code Generation, Conversational AI & API Integration</td>
+  </tr>
+  <tr>
+    <td><b>Open & Reasoning AI</b></td>
+    <td>DeepSeek (V3 & R1) • Qwen (Alibaba Cloud) • Kimi (Moonshot AI)</td>
+    <td>Complex Reasoning, Code Intelligence, Multilingual Processing</td>
+  </tr>
+  <tr>
+    <td><b>AI Dev Tools & Agents</b></td>
+    <td>Claude Code • Prompt Engineering • LLM Workflows • AI Chatbots</td>
+    <td>Automated Workflows, Intelligent Triage & Agentic Development</td>
   </tr>
 </table>
 
@@ -134,14 +161,8 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
 
 ### 🔗 **Let's Connect:**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/caio-montilha" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
-  </a>
-  <a href="https://discord.gg/5ePcuCrk" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="discord" width="40" height="40"/>
-  </a>
-  <a href="mailto:caiomontilha.cm@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" width="40" height="40"/>
-  </a>
-</p>
+<div> 
+  <a href="https://www.linkedin.com/in/caio-montilha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/5ePcuCrk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="mailto:caiomontilha.cm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
