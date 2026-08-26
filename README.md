@@ -118,12 +118,34 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
 
 ### ━━━━━━━ 📜 Certifications & Education ━━━━━━━
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner Badge"/>
-  <img src="https://img.shields.io/badge/Oracle-Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle GenAI Badge"/>
-  <img src="https://img.shields.io/badge/IBM-Full%20Stack%20Developer-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Full Stack Badge"/>
-  <img src="https://img.shields.io/badge/FIAP-Software%20Architecture%20Postgrad-ED1C24?style=for-the-badge" alt="FIAP Software Architecture"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/76f98e22-5271-4d54-8eb7-4e10d2341856/public_url" target="_blank">
+        <img src="https://images.credly.com/size/160x160/images/68498f39-650a-40a2-b9e7-493393ab1646/image.png" width="90" alt="AWS Certified Cloud Practitioner"/>
+      </a>
+      <br><b>AWS Certified Cloud Practitioner</b>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.oracle.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="75" height="75" alt="Oracle Generative AI Professional"/>
+      </a>
+      <br><b>Oracle Generative AI Professional</b>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.ibm.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="75" height="75" alt="IBM Full Stack Developer"/>
+      </a>
+      <br><b>IBM Full Stack Developer</b>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.fiap.com.br" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/graduation/graduation-icon.svg" width="75" height="75" alt="FIAP Software Architecture"/>
+      </a>
+      <br><b>FIAP Software Architecture</b>
+    </td>
+  </tr>
+</table>
 
 <br>
 
