@@ -107,12 +107,17 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
     <td>RAG Systems, Code Generation, Conversational AI & API Integration</td>
   </tr>
   <tr>
-    <td><b>Open & Reasoning AI</b></td>
-    <td>DeepSeek (V3 & R1) • Qwen (Alibaba Cloud) • Kimi (Moonshot AI)</td>
-    <td>Complex Reasoning, Code Intelligence, Multilingual Processing</td>
+    <td><b>Local & Reasoning AI</b></td>
+    <td>Ollama (Local LLMs) • DeepSeek (V3 & R1) • Qwen • Kimi (Moonshot AI)</td>
+    <td>Local Model Inference, Complex Reasoning, Code Intelligence & Privacy</td>
   </tr>
   <tr>
-    <td><b>AI Dev Tools & Agents</b></td>
+    <td><b>AI Crawling & Data</b></td>
+    <td>Open Crawl • Web Scraping • Data Extraction Pipelines</td>
+    <td>Automated Data Scraping, Knowledge Ingestion & Web Intelligence</td>
+  </tr>
+  <tr>
+    <td><b>AI Agents & Tools</b></td>
     <td>Claude Code • Prompt Engineering • LLM Workflows • AI Chatbots</td>
     <td>Automated Workflows, Intelligent Triage & Agentic Development</td>
   </tr>
