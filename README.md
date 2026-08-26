@@ -134,8 +134,14 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
 
 ### 🔗 **Let's Connect:**
 
-<div> 
-  <a href="https://www.linkedin.com/in/caio-montilha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.gg/5ePcuCrk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:caiomontilha.cm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/caio-montilha" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
+  <a href="https://discord.gg/5ePcuCrk" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="discord" width="40" height="40"/>
+  </a>
+  <a href="mailto:caiomontilha.cm@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" width="40" height="40"/>
+  </a>
+</p>
