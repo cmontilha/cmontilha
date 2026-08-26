@@ -114,8 +114,6 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
   </tr>
 </table>
 
-<br>
-
 ### ━━━━━━━ 📜 Certifications ━━━━━━━
 
 <table width="380">
@@ -134,8 +132,6 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
     </td>
   </tr>
 </table>
-
-<br>
 
 ---
 <p align="left"> 
