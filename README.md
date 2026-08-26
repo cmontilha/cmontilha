@@ -38,7 +38,7 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
 
   <tr>
     <td>Python (AI & Automation)</td>
-    <td>TypeScript & JavaScript</td>
+    <td>React & Next.js</td>
     <td>PostgreSQL</td>
     <td>AWS (Solutions)</td>
     <td>Git</td>
@@ -47,43 +47,34 @@ I’m a Computer Science & Business graduate (USA) with strong skills in program
 
   <tr>
     <td>TypeScript / JavaScript</td>
-    <td>React & Next.js</td>
+    <td>Node.js & Express</td>
     <td>MySQL</td>
     <td>Google Cloud (GCP)</td>
     <td>GitHub</td>
-    <td>&nbsp;</td>
-  </tr>
-
-  <tr>
-    <td>Java (Spring Boot)</td>
-    <td>Node.js & Express</td>
-    <td>MongoDB</td>
-    <td>Docker</td>
-    <td>&nbsp;</td>
     <td>Figma</td>
   </tr>
 
   <tr>
-    <td>Kotlin (Android)</td>
+    <td>Java (Spring Boot)</td>
     <td>HTML5 & CSS3</td>
-    <td>Firebase</td>
+    <td>MongoDB</td>
+    <td>Docker</td>
+    <td>GitHub Actions</td>
+    <td>Automation Hub</td>
+  </tr>
+
+  <tr>
+    <td>Kotlin (Android)</td>
+    <td>REST APIs & Services</td>
+    <td>Firebase / NoSQL</td>
     <td>Kubernetes</td>
     <td>&nbsp;</td>
     <td>VirtualBox</td>
   </tr>
 
   <tr>
-    <td>C++</td>
+    <td>C++ / R / Swift</td>
     <td>AI Chatbots & Prompt Eng.</td>
-    <td>SQL / NoSQL</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-
-  <tr>
-    <td>R / Swift</td>
-    <td>REST APIs</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
